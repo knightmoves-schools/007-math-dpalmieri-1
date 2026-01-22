@@ -8,8 +8,8 @@ public class Math
     public int Quotient = 15 / 2;
     public int Remainder = 7 % 2;
     public string AllOfThem = $@"{Sum} + {Difference} + {Product} + {Quotient} + {Remainder}";
-    return AllOfThem;
 }
+
 
 
 
