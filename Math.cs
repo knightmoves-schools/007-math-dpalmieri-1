@@ -7,8 +7,10 @@ public class Math
     public static int Product = 3 * 5;
     public static int Quotient = 15 / 2;
     public static int Remainder = 7 % 2;
-    public static string AllOfThem = $@"{Sum} + {Difference} + {Product} + {Quotient} + {Remainder}";
+    public string AllOfThem = $@"{Sum} + {Difference} + {Product} + {Quotient} + {Remainder}";
+    return AllOfThem;
 }
+
 
 
 
