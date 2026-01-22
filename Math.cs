@@ -2,7 +2,7 @@
 public class Math
 {
     // Add your code here
-    public static int AllOfThem(){
+    public int AllOfThem(){
         int Sum       = 1 + 4;
         int Difference = 5 - 2;
         int Product   = 3 * 5;
@@ -12,6 +12,7 @@ public class Math
         return $"{Sum} + {Difference} + {Product} + {Quotient} + {Remainder}";
     }
 }
+
 
 
 
