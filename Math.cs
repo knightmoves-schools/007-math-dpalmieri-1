@@ -9,9 +9,10 @@ public class Math
         int Quotient  = 15 / 2;
         int Remainder = 7 % 2;
 
-        return Sum + Difference + Product + Quotient + Remainder;
+        return $"{Sum} + {Difference} + {Product} + {Quotient} + {Remainder}";
     }
 }
+
 
 
 
