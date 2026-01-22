@@ -2,13 +2,14 @@
 public class Math
 {
     // Add your code here
-    public int Sum = 1 + 4;
-    public int Difference = 5 - 2;
-    public int Product = 3 * 5;
-    public int Quotient = 15 / 2;
-    public int Remainder = 7 % 2;
-    public string AllOfThem = $@"{Sum} + {Difference} + {Product} + {Quotient} + {Remainder}";
+    public static int Sum = 1 + 4;
+    public static int Difference = 5 - 2;
+    public static int Product = 3 * 5;
+    public static int Quotient = 15 / 2;
+    public static int Remainder = 7 % 2;
+    public static string AllOfThem = $@"{Sum} + {Difference} + {Product} + {Quotient} + {Remainder}";
 }
+
 
 
 
