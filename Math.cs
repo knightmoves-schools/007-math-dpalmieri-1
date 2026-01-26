@@ -8,9 +8,10 @@ public class Math
         public int Quotient = 15 / 2;
         public int Remainder = 7 % 2;
 
-        public string Numbers = $"{Sum} + {Difference} + {Product} + {Quotient} + {Remainder}";
+        public string Numbers = $"{Sum} {Difference} {Product} {Quotient} {Remainder}";
     }
 }
+
 
 
 
