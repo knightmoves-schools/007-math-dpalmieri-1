@@ -9,8 +9,8 @@ public class Math
         public int Remainder = 7 % 2;
 
         public string Numbers = $"{Sum} {Difference} {Product} {Quotient} {Remainder}";
-    }
 }
+
 
 
 
